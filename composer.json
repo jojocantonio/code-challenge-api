@@ -17,7 +17,7 @@
         "cakephp/debug_kit": "^5.0.0",
         "josegonzalez/dotenv": "^4.0",
         "phpunit/phpunit": "^10.1.0",
-        "guzzlehttp/guzzle": "~5.3|~6.0"
+        "guzzlehttp/guzzle": "^7.9.2"
     },
     "suggest": {
         "cakephp/repl": "Console tools for a REPL interface for CakePHP applications.",
